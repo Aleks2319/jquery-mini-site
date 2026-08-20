@@ -5,7 +5,7 @@
 ---
 
 <a name="english"></a>
-## 🇬🇧 English
+## EN English
 
 A lightweight and responsive mini-website built to practice and showcase DOM manipulation, event handling, and interactive UI components using **jQuery**.
 
