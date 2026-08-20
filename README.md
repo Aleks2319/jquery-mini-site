@@ -1,12 +1,5 @@
 # jQuery Mini Site
 
-[English](#english) | [Русский](#русский)
-
----
-
-<a name="english"></a>
-## EN English
-
 A lightweight and responsive mini-website built to practice and showcase DOM manipulation, event handling, and interactive UI components using **jQuery**.
 
 ### 🚀 Features
@@ -26,8 +19,7 @@ You can view the live website here:
 
 ---
 
-<a name="русский"></a>
-## 🇷🇺 Русский
+# jQuery мини-сайт
 
 Легкий и адаптивный мини-сайт, созданный для практики и демонстрации работы с DOM, обработки событий и интерактивных UI-компонентов с использованием **jQuery**.
 
